@@ -1,0 +1,12 @@
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\CursoAspNet\GerenciadorFinancas\GerenciadorFinancas.Dominio\bin\Debug\net6.0\GerenciadorFinancas.Dominio.deps.json
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\CursoAspNet\GerenciadorFinancas\GerenciadorFinancas.Dominio\bin\Debug\net6.0\GerenciadorFinancas.Dominio.dll
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\CursoAspNet\GerenciadorFinancas\GerenciadorFinancas.Dominio\bin\Debug\net6.0\GerenciadorFinancas.Dominio.pdb
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\CursoAspNet\GerenciadorFinancas\GerenciadorFinancas.Dominio\obj\Debug\net6.0\GerenciadorFinancas.Dominio.csproj.AssemblyReference.cache
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\CursoAspNet\GerenciadorFinancas\GerenciadorFinancas.Dominio\obj\Debug\net6.0\GerenciadorFinancas.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\CursoAspNet\GerenciadorFinancas\GerenciadorFinancas.Dominio\obj\Debug\net6.0\GerenciadorFinancas.Dominio.AssemblyInfoInputs.cache
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\CursoAspNet\GerenciadorFinancas\GerenciadorFinancas.Dominio\obj\Debug\net6.0\GerenciadorFinancas.Dominio.AssemblyInfo.cs
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\CursoAspNet\GerenciadorFinancas\GerenciadorFinancas.Dominio\obj\Debug\net6.0\GerenciadorFinancas.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\CursoAspNet\GerenciadorFinancas\GerenciadorFinancas.Dominio\obj\Debug\net6.0\GerenciadorFinancas.Dominio.dll
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\CursoAspNet\GerenciadorFinancas\GerenciadorFinancas.Dominio\obj\Debug\net6.0\refint\GerenciadorFinancas.Dominio.dll
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\CursoAspNet\GerenciadorFinancas\GerenciadorFinancas.Dominio\obj\Debug\net6.0\GerenciadorFinancas.Dominio.pdb
+C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\CursoAspNet\GerenciadorFinancas\GerenciadorFinancas.Dominio\obj\Debug\net6.0\ref\GerenciadorFinancas.Dominio.dll

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "T649KP1W6hYOuvhCLx6vLlEG6VxN3EQZxef+uG06u0jJt+0hcGBeiAowzPhTohLjDtd1rk1w1jptk1XoeTb7xQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MarcosFelipeSilvaCel\\OneDrive - Time Share Soluções\\Área de Trabalho\\CursoAspNet\\GerenciadorFinancas\\GerenciadorFinancas.Identity\\GerenciadorFinancas.Identity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MarcosFelipeSilvaCel\\.nuget\\packages\\duende.identityserver\\6.1.0\\duende.identityserver.6.1.0.nupkg.sha512",
+    "C:\\Users\\MarcosFelipeSilvaCel\\.nuget\\packages\\duende.identityserver.storage\\6.1.0\\duende.identityserver.storage.6.1.0.nupkg.sha512",
+    "C:\\Users\\MarcosFelipeSilvaCel\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\MarcosFelipeSilvaCel\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\6.0.0\\microsoft.aspnetcore.authentication.openidconnect.6.0.0.nupkg.sha512",
+    "C:\\Users\\MarcosFelipeSilvaCel\\.nuget\\packages\\microsoft.aspnetcore.dataprotection.abstractions\\6.0.0\\microsoft.aspnetcore.dataprotection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\MarcosFelipeSilvaCel\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\MarcosFelipeSilvaCel\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.10.0\\microsoft.identitymodel.jsonwebtokens.6.10.0.nupkg.sha512",
+    "C:\\Users\\MarcosFelipeSilvaCel\\.nuget\\packages\\microsoft.identitymodel.logging\\6.10.0\\microsoft.identitymodel.logging.6.10.0.nupkg.sha512",
+    "C:\\Users\\MarcosFelipeSilvaCel\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.10.0\\microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "C:\\Users\\MarcosFelipeSilvaCel\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.10.0\\microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
+    "C:\\Users\\MarcosFelipeSilvaCel\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.10.0\\microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
+    "C:\\Users\\MarcosFelipeSilvaCel\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.10.0\\system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
+    "C:\\Users\\MarcosFelipeSilvaCel\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
