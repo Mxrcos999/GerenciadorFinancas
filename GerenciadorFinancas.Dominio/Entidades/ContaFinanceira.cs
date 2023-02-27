@@ -6,6 +6,12 @@ namespace GerenciadorFinancas.Dominio.Entidades
     {
         public decimal RendaBruta { get; set; }
         public decimal ValorExtra { get; set; }    
-        public DateTime? DataPagamento { get; set; }    
+        public DateTime? DataPagamento { get; set; }
+        public ContaFinanceira(DateTime? dataPagamento, decimal valorExtra, decimal rendaBruta)
+        {
+            DataPagamento = dataPagamento;
+            ValorExtra = valorExtra;
+            RendaBruta = rendaBruta;
+        }
     }
 }

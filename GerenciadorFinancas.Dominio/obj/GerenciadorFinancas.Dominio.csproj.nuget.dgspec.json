@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MarcosFelipeSilvaCel\\OneDrive - Time Share Soluções\\Área de Trabalho\\CursoAspNet\\GerenciadorFinancas\\GerenciadorFinancas.Dominio\\GerenciadorFinancas.Dominio.csproj": {}
+    "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Dominio\\GerenciadorFinancas.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MarcosFelipeSilvaCel\\OneDrive - Time Share Soluções\\Área de Trabalho\\CursoAspNet\\GerenciadorFinancas\\GerenciadorFinancas.Dominio\\GerenciadorFinancas.Dominio.csproj": {
+    "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Dominio\\GerenciadorFinancas.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MarcosFelipeSilvaCel\\OneDrive - Time Share Soluções\\Área de Trabalho\\CursoAspNet\\GerenciadorFinancas\\GerenciadorFinancas.Dominio\\GerenciadorFinancas.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Dominio\\GerenciadorFinancas.Dominio.csproj",
         "projectName": "GerenciadorFinancas.Dominio",
-        "projectPath": "C:\\Users\\MarcosFelipeSilvaCel\\OneDrive - Time Share Soluções\\Área de Trabalho\\CursoAspNet\\GerenciadorFinancas\\GerenciadorFinancas.Dominio\\GerenciadorFinancas.Dominio.csproj",
+        "projectPath": "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Dominio\\GerenciadorFinancas.Dominio.csproj",
         "packagesPath": "C:\\Users\\MarcosFelipeSilvaCel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MarcosFelipeSilvaCel\\OneDrive - Time Share Soluções\\Área de Trabalho\\CursoAspNet\\GerenciadorFinancas\\GerenciadorFinancas.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -45,6 +45,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

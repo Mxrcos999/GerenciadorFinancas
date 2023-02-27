@@ -1,17 +1,88 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MarcosFelipeSilvaCel\\OneDrive - Time Share Soluções\\Área de Trabalho\\CursoAspNet\\GerenciadorFinancas\\GerenciadorFinancas.Identity\\GerenciadorFinancas.Identity.csproj": {}
+    "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Identity\\GerenciadorFinancas.Identity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MarcosFelipeSilvaCel\\OneDrive - Time Share Soluções\\Área de Trabalho\\CursoAspNet\\GerenciadorFinancas\\GerenciadorFinancas.Identity\\GerenciadorFinancas.Identity.csproj": {
+    "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Aplicacao\\GerenciadorFinancas.Aplicacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MarcosFelipeSilvaCel\\OneDrive - Time Share Soluções\\Área de Trabalho\\CursoAspNet\\GerenciadorFinancas\\GerenciadorFinancas.Identity\\GerenciadorFinancas.Identity.csproj",
-        "projectName": "GerenciadorFinancas.Identity",
-        "projectPath": "C:\\Users\\MarcosFelipeSilvaCel\\OneDrive - Time Share Soluções\\Área de Trabalho\\CursoAspNet\\GerenciadorFinancas\\GerenciadorFinancas.Identity\\GerenciadorFinancas.Identity.csproj",
+        "projectUniqueName": "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Aplicacao\\GerenciadorFinancas.Aplicacao.csproj",
+        "projectName": "GerenciadorFinancas.Aplicacao",
+        "projectPath": "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Aplicacao\\GerenciadorFinancas.Aplicacao.csproj",
         "packagesPath": "C:\\Users\\MarcosFelipeSilvaCel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MarcosFelipeSilvaCel\\OneDrive - Time Share Soluções\\Área de Trabalho\\CursoAspNet\\GerenciadorFinancas\\GerenciadorFinancas.Identity\\obj\\",
+        "outputPath": "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Aplicacao\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MarcosFelipeSilvaCel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Dominio\\GerenciadorFinancas.Dominio.csproj": {
+                "projectPath": "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Dominio\\GerenciadorFinancas.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Dominio\\GerenciadorFinancas.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Dominio\\GerenciadorFinancas.Dominio.csproj",
+        "projectName": "GerenciadorFinancas.Dominio",
+        "projectPath": "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Dominio\\GerenciadorFinancas.Dominio.csproj",
+        "packagesPath": "C:\\Users\\MarcosFelipeSilvaCel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -46,9 +117,176 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Duende.IdentityServer": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.1.0, )"
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Identity\\GerenciadorFinancas.Identity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Identity\\GerenciadorFinancas.Identity.csproj",
+        "projectName": "GerenciadorFinancas.Identity",
+        "projectPath": "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Identity\\GerenciadorFinancas.Identity.csproj",
+        "packagesPath": "C:\\Users\\MarcosFelipeSilvaCel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Identity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MarcosFelipeSilvaCel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Infraestrutura\\GerenciadorFinancas.Infraestrutura.csproj": {
+                "projectPath": "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Infraestrutura\\GerenciadorFinancas.Infraestrutura.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Infraestrutura\\GerenciadorFinancas.Infraestrutura.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Infraestrutura\\GerenciadorFinancas.Infraestrutura.csproj",
+        "projectName": "GerenciadorFinancas.Infraestrutura",
+        "projectPath": "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Infraestrutura\\GerenciadorFinancas.Infraestrutura.csproj",
+        "packagesPath": "C:\\Users\\MarcosFelipeSilvaCel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Infraestrutura\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MarcosFelipeSilvaCel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Aplicacao\\GerenciadorFinancas.Aplicacao.csproj": {
+                "projectPath": "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Aplicacao\\GerenciadorFinancas.Aplicacao.csproj"
+              },
+              "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Dominio\\GerenciadorFinancas.Dominio.csproj": {
+                "projectPath": "C:\\Users\\MarcosFelipeSilvaCel\\source\\repos\\GerenciadorFinancas\\GerenciadorFinancas.Dominio\\GerenciadorFinancas.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.8, )"
             }
           },
           "imports": [

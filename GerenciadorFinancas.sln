@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GerenciadorFinancas.Dominio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GerenciadorFinancas.Aplicacao", "GerenciadorFinancas.Aplicacao\GerenciadorFinancas.Aplicacao.csproj", "{D3EE936C-F1CA-4F7A-A6F0-524C19C519B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerenciadorFinancas.Identity", "GerenciadorFinancas.Identity\GerenciadorFinancas.Identity.csproj", "{F9D1AF05-6446-41E9-B17F-48598B45ED8F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerenciadorFinancas.Identity", "GerenciadorFinancas.Identity\GerenciadorFinancas.Identity.csproj", "{A2B443E7-BF34-4C00-87D3-97D21FB4AF59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{D3EE936C-F1CA-4F7A-A6F0-524C19C519B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3EE936C-F1CA-4F7A-A6F0-524C19C519B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3EE936C-F1CA-4F7A-A6F0-524C19C519B2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F9D1AF05-6446-41E9-B17F-48598B45ED8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F9D1AF05-6446-41E9-B17F-48598B45ED8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F9D1AF05-6446-41E9-B17F-48598B45ED8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F9D1AF05-6446-41E9-B17F-48598B45ED8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2B443E7-BF34-4C00-87D3-97D21FB4AF59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B443E7-BF34-4C00-87D3-97D21FB4AF59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B443E7-BF34-4C00-87D3-97D21FB4AF59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B443E7-BF34-4C00-87D3-97D21FB4AF59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

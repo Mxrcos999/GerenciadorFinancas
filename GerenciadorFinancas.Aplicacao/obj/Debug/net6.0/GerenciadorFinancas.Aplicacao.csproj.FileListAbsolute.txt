@@ -13,3 +13,18 @@ C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\CursoAspNet\GerenciadorFinancas\GerenciadorFinancas.Aplicacao\bin\Debug\net6.0\GerenciadorFinancas.Dominio.dll
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\CursoAspNet\GerenciadorFinancas\GerenciadorFinancas.Aplicacao\bin\Debug\net6.0\GerenciadorFinancas.Dominio.pdb
 C:\Users\MarcosFelipeSilvaCel\OneDrive - Time Share Soluções\Área de Trabalho\CursoAspNet\GerenciadorFinancas\GerenciadorFinancas.Aplicacao\obj\Debug\net6.0\GerenciadorFinancas.Aplicacao.csproj.CopyComplete
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\GerenciadorFinancas\GerenciadorFinancas.Aplicacao\bin\Debug\net6.0\GerenciadorFinancas.Aplicacao.deps.json
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\GerenciadorFinancas\GerenciadorFinancas.Aplicacao\bin\Debug\net6.0\GerenciadorFinancas.Aplicacao.dll
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\GerenciadorFinancas\GerenciadorFinancas.Aplicacao\bin\Debug\net6.0\GerenciadorFinancas.Aplicacao.pdb
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\GerenciadorFinancas\GerenciadorFinancas.Aplicacao\bin\Debug\net6.0\GerenciadorFinancas.Dominio.dll
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\GerenciadorFinancas\GerenciadorFinancas.Aplicacao\bin\Debug\net6.0\GerenciadorFinancas.Dominio.pdb
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\GerenciadorFinancas\GerenciadorFinancas.Aplicacao\obj\Debug\net6.0\GerenciadorFinancas.Aplicacao.csproj.AssemblyReference.cache
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\GerenciadorFinancas\GerenciadorFinancas.Aplicacao\obj\Debug\net6.0\GerenciadorFinancas.Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\GerenciadorFinancas\GerenciadorFinancas.Aplicacao\obj\Debug\net6.0\GerenciadorFinancas.Aplicacao.AssemblyInfoInputs.cache
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\GerenciadorFinancas\GerenciadorFinancas.Aplicacao\obj\Debug\net6.0\GerenciadorFinancas.Aplicacao.AssemblyInfo.cs
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\GerenciadorFinancas\GerenciadorFinancas.Aplicacao\obj\Debug\net6.0\GerenciadorFinancas.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\GerenciadorFinancas\GerenciadorFinancas.Aplicacao\obj\Debug\net6.0\GerenciadorFinancas.Aplicacao.csproj.CopyComplete
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\GerenciadorFinancas\GerenciadorFinancas.Aplicacao\obj\Debug\net6.0\GerenciadorFinancas.Aplicacao.dll
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\GerenciadorFinancas\GerenciadorFinancas.Aplicacao\obj\Debug\net6.0\refint\GerenciadorFinancas.Aplicacao.dll
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\GerenciadorFinancas\GerenciadorFinancas.Aplicacao\obj\Debug\net6.0\GerenciadorFinancas.Aplicacao.pdb
+C:\Users\MarcosFelipeSilvaCel\Source\Repos\GerenciadorFinancas\GerenciadorFinancas.Aplicacao\obj\Debug\net6.0\ref\GerenciadorFinancas.Aplicacao.dll
